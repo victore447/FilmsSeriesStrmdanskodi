@@ -12,9 +12,13 @@ https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 
 # LIENS DU SUJET:
 Logiciel 👉 https://github.com/trix7777/m2strm/releases/download/v3.0.2.3/m2strm.exe
+
 Version anglaise👉du sujet https://github.com/trix7777/m2strm#readme
+
 https://github.com/trix7777/m2strm
+
 https://kodiapps.com/addons-chart
+
 https://iwf1.com/kodi?page=1&sug=video
 
 👌 Mettre une star si le sujet vous à intéresse !
