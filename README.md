@@ -13,7 +13,7 @@ https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 # LIENS DU SUJET:
 Detail 👉 https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2
 
-éléchargement du Logiciel 👉 https://github.com/trix7777/m2strm/releases/download/v3.0.2.3/m2strm.exe
+Téléchargement du Logiciel 👉 https://github.com/trix7777/m2strm/releases/download/v3.0.2.3/m2strm.exe
 
 Version anglaise👉du sujet https://github.com/trix7777/m2strm#readme
 
