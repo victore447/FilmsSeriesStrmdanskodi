@@ -11,7 +11,9 @@ https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 
 # PREREQUIS:
 👉 Avoir une playlist m3u
+
 👉 Avoir un Pc..sous Windows ou Linux
+
 👉 Creer un reseau locale via vos appareils (Box Shiel Tv etc..) pour faciliter vos mises a jours
 
 # LIENS DU SUJET:
