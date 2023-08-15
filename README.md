@@ -4,7 +4,7 @@ https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 
 # OBJET:
 
-<li>- [x] 👉 Pouvoir regarder vos Films,Series tv & Chaines Tv sans Plugins videos avec Kodi. </li>
+<li>- [x] 👉 Pouvoir regarder vos Films,Series tv & Chaines Tv sans les Plugins videos de Kodi. </li>
 <li>- [x] 👉 Soulanger votre Disque dur en Go & To avec des fichiers strm. </li>
 <li>- [ ] 👉 Alimenter rapidement la mediatheque kodi meme avec votre mobile via reseau locale.  </li>
 <li>- [x] 👉 Le logiciel du sujet est compatible Windows/Linux. </li>
@@ -27,7 +27,5 @@ https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 <li>- [x] 🖲️ https://kodiapps.com/addons-chart </li>
 
 <li>- [x] 🖲️ https://iwf1.com/kodi?page=1&sug=video </li>
-
-
 
 👌 Mettre une star si cela vous à intéressé ✅ </li> 
