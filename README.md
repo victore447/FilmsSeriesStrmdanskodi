@@ -6,7 +6,7 @@ https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 
 <li>- [x] 👉 Pouvoir regarder vos Films,Series tv & Chaines Tv sans les Plugins videos de Kodi. </li>
 <li>- [x] 👉 Soulanger votre Disque dur en Go & To avec des fichiers strm. </li>
-<li>- [ ] 👉 Alimenter rapidement la mediatheque kodi via url des sources uptobox & Alldebrid etc..meme avec votre mobile via reseau locale.  </li>
+<li>- [ ] 👉 Mise a jour rapide de la mediatheque kodi via url des sources de vos m3u,iptv,Alldebrid etc.. meme avec votre mobile via reseau locale.  </li>
 <li>- [x] 👉 Le logiciel du sujet est compatible Windows/Linux. </li>
 
 # PREREQUIS:
