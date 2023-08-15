@@ -20,6 +20,8 @@ https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 
 <li>- [x] Téléchargement du Logiciel 🖲️ https://github.com/trix7777/m2strm/releases/download/v3.0.2.3/m2strm.exe </li>
 
+![Capture écrans (1)](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/a74e4e11-6e41-459a-86d5-ce40fbf4f849)
+
 <li>- [x] Version originale en anglais du sujet 🖲️ https://github.com/trix7777/m2strm#readme </li>
 
 <li>- [x] 🖲️ https://github.com/trix7777/m2strm </li>
@@ -30,4 +32,3 @@ https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 
 # 👌 Mettre une star si cela vous à intéressé ✅ </li> 
 
-![Capture écrans (1)](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/a74e4e11-6e41-459a-86d5-ce40fbf4f849)
