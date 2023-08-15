@@ -1,4 +1,4 @@
-# Films & Series Tv... en fichiers Strm dans kodi
+# Films & Series Tv... en fichiers Strm à visualiser dans kodi
 https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2
 https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 
@@ -10,7 +10,7 @@ https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 <li>- [x] 👉 Le logiciel du sujet est compatible Windows/Linux. </li>
 
 # PREREQUIS:
-<li>- [x] 👉 Avoir une playlist m3u. </li>
+<li>- [x] 👉 Avoir une playlist m3u sans coupures. </li>
 <li>- [x] 👉 Avoir un Pc..sous Windows ou Linux. </li>
 <li>- [x] 👉 Creer un reseau locale via vos appareils (Box Shiel Tv etc..) 
   pour faciliter vos mises a jours directement dans vos dossier "films & Series..". </li>
