@@ -6,11 +6,11 @@ https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 
 <li>- [x] 👉 Pouvoir regarder vos Films,Series tv & Chaines Tv sans les Plugins videos de Kodi. </li>
 <li>- [x] 👉 Soulanger votre Disque dur en Go & To avec des fichiers strm. </li>
-<li>- [ ] 👉 Mise a jour rapide de la mediatheque kodi via url des sources de vos m3u,iptv,Alldebrid etc.. meme avec votre mobile via reseau locale.  </li>
+<li>- [ ] 👉 Mise a jour rapide de la mediatheque kodi via url des sources de vos m3u,iptv,Alldebrid etc.. meme avec votre mobile via votre reseau locale.  </li>
 
 # PREREQUIS:
 <li>- [x] 👉 Avoir une playlist m3u sans coupures. </li>
-<li>- [x] 👉 Avoir un Pc..sous Windows ou Linux. </li>
+<li>- [x] 👉 Avoir un Pc...sous Windows ou Linux. </li>
 <li>- [x] 👉 Creer un reseau locale via vos appareils (Box Shiel Tv etc..) 
   pour faciliter vos mises a jours directement dans vos dossiers "films & Series..". </li>
 
