@@ -1,4 +1,4 @@
-# Films & Series Tv... en fichiers Strm à visualiser dans kodi
+# Visualiser Films & Series...des fichiers Strm dans kodi.
 https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2
 https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 
