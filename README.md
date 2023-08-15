@@ -12,7 +12,8 @@ https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 # PREREQUIS:
 <li>- [x] 👉 Avoir une playlist m3u. </li>
 <li>- [x] 👉 Avoir un Pc..sous Windows ou Linux. </li>
-<li>- [x] 👉 Creer un reseau locale via vos appareils (Box Shiel Tv etc..) pour faciliter vos mises a jours. </li>
+<li>- [x] 👉 Creer un reseau locale via vos appareils (Box Shiel Tv etc..) 
+  pour faciliter vos mises a jours directement dans vos dossier "films & Series..". </li>
 
 # LIENS DU SUJET:
 <li>- [x] Detail 🖲️ https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2 </li>
@@ -26,6 +27,7 @@ https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 <li>- [x] 🖲️ https://kodiapps.com/addons-chart </li>
 
 <li>- [x] 🖲️ https://iwf1.com/kodi?page=1&sug=video </li>
+
 
 
 👌 Mettre une star si cela vous à intéressé ✅ </li> 
