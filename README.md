@@ -10,23 +10,21 @@ https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 <li>- [x] 👉 Le logiciel du sujet est compatible Windows/Linux. </li>
 
 # PREREQUIS:
-👉 Avoir une playlist m3u
-
-👉 Avoir un Pc..sous Windows ou Linux
-
-👉 Creer un reseau locale via vos appareils (Box Shiel Tv etc..) pour faciliter vos mises a jours
+<li>- [x] 👉 Avoir une playlist m3u. </li>
+<li>- [x] 👉 Avoir un Pc..sous Windows ou Linux. </li>
+<li>- [x] 👉 Creer un reseau locale via vos appareils (Box Shiel Tv etc..) pour faciliter vos mises a jours. </li>
 
 # LIENS DU SUJET:
-Detail 👉 https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2
+<li>- [x] Detail 🖲️ https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2 </li>
 
-Téléchargement du Logiciel 👉 https://github.com/trix7777/m2strm/releases/download/v3.0.2.3/m2strm.exe
+<li>- [x] Téléchargement du Logiciel 🖲️ https://github.com/trix7777/m2strm/releases/download/v3.0.2.3/m2strm.exe </li>
 
-Version anglaise du 👉 sujet https://github.com/trix7777/m2strm#readme
+<li>- [x] Version anglaise du 🖲️ sujet https://github.com/trix7777/m2strm#readme </li>
 
-https://github.com/trix7777/m2strm
+<li>- [x] 🖲️ https://github.com/trix7777/m2strm </li>
 
-https://kodiapps.com/addons-chart
+<li>- [x]🖲️ https://kodiapps.com/addons-chart </li>
 
-https://iwf1.com/kodi?page=1&sug=video
+<li>- [x] 🖲️ https://iwf1.com/kodi?page=1&sug=video </li>
 
-👌 Mettre une star si le sujet vous à intéresse !
+👌 Mettre une star si cela vous à intéressé ✅ </li> 
