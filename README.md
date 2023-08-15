@@ -29,3 +29,5 @@ https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 <li>- [x] 🖲️ https://iwf1.com/kodi?page=1&sug=video </li>
 
 # 👌 Mettre une star si cela vous à intéressé ✅ </li> 
+
+![Capture écrans (1)](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/a74e4e11-6e41-459a-86d5-ce40fbf4f849)
