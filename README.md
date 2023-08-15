@@ -13,14 +13,14 @@ https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 <li>- [x] 👉 Avoir une playlist m3u sans coupures. </li>
 <li>- [x] 👉 Avoir un Pc..sous Windows ou Linux. </li>
 <li>- [x] 👉 Creer un reseau locale via vos appareils (Box Shiel Tv etc..) 
-  pour faciliter vos mises a jours directement dans vos dossier "films & Series..". </li>
+  pour faciliter vos mises a jours directement dans vos dossiers "films & Series..". </li>
 
 # LIENS DU SUJET:
 <li>- [x] Detail 🖲️ https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2 </li>
 
 <li>- [x] Téléchargement du Logiciel 🖲️ https://github.com/trix7777/m2strm/releases/download/v3.0.2.3/m2strm.exe </li>
 
-<li>- [x] Version original en anglais  du sujet 🖲️ https://github.com/trix7777/m2strm#readme </li>
+<li>- [x] Version originale en anglais du sujet 🖲️ https://github.com/trix7777/m2strm#readme </li>
 
 <li>- [x] 🖲️ https://github.com/trix7777/m2strm </li>
 
