@@ -1,6 +1,5 @@
 # FilmsSeriesStrmdanskodi
 https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2
-https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 
 
 # OBJETS:
