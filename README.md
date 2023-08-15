@@ -23,7 +23,7 @@ https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 
 <li>- [x] 🖲️ https://github.com/trix7777/m2strm </li>
 
-<li>- [x]🖲️ https://kodiapps.com/addons-chart </li>
+<li>- [x] 🖲️ https://kodiapps.com/addons-chart </li>
 
 <li>- [x] 🖲️ https://iwf1.com/kodi?page=1&sug=video </li>
 
