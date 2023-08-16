@@ -69,12 +69,12 @@ Et si votre wifi à un haut débit par tranche 1000 a 3000 (J'ai pas testé ça)
 - 🖲️ **[Téléchargement du Logiciel](https://github.com/trix7777/m2strm/releases/download/v3.0.2.3/m2strm.exe)**
 - 🖲️ **[Version originale en anglais du sujet](https://github.com/trix7777/m2strm#readme)**
 - 🖲️ **[Trix7777 le developpeur](https://github.com/trix7777/m2strm)** 
-- 🖲️ **[Plugins Video Kodiapps](https://kodiapps.com/addons-chart)**
-- 🖲️ **[M2strm](https://iwf1.com/kodi?page=1&sug=video)**
 - 🖲️ **[Site Themoviedb d'ou les données (Films,Series.. sont extraites](https://www.themoviedb.org/?language=frlorsque)**
 - 🖲️  **[Addon The Movie Database Python](https://github.com/xbmc/metadata.themoviedb.org.python)**
 - 🖲️ **[Addon TMDb TV Shows](https://github.com/xbmc/metadata.tvshows.themoviedb.org.python)**
 - 🖲️ **[Site officiel Themoviedb.org](https://www.themoviedb.org/?language=frlorsque)**
+- 🖲️ **[Plugins Video Kodiapps](https://kodiapps.com/addons-chart)**
+- 🖲️ **[Site Iwf1 des plugins videos Kodi](https://iwf1.com/kodi?page=1&sug=video)**
 
 ### <li>- [x] 👌 Mettre une star si ça été intéressant✔️ </li> 
 
