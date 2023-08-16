@@ -38,7 +38,7 @@ de renommé un par un les sources url dans un fichier txt pour ensuite le renomm
 
 ### <li>- [x] MÉTHODOLOGIE DE L'AJOUT DES MEDIAS: </li>
 - Après avoir téléchargé votre fichier exe compatible Windows et Linux sur
-ce lien 👉**[M2strm](https://github.com/trix7777/m2strm/releases/download/v3.0.2.3/m2strm.exe)** ,
+ce lien 👉 **[M2strm](https://github.com/trix7777/m2strm/releases/download/v3.0.2.3/m2strm.exe)** ,
 Il faut renommé votre fichier m3u en m3u8 et le logiciel vas extraire la totalité des fichiers
 en strm en dossier films,séries et chaines tv etc…
 
