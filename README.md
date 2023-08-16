@@ -43,10 +43,9 @@ Il faut renommé votre fichier m3u en m3u8 et le logiciel vas extraire la totali
 en strm en dossier films,séries et chaines tv etc…
 
 - MOI JE PLACE LE FICHER DU DEVELOPPEUR ET TOUT MES FICHIERS SUR DOWNLOAD.
-- SUR RECHERCHE WINDOWS IL FAUT TAPER CMD PUIS OUVRIR L’INVITE DE COMMANDE EN TANT QUE ADMINISTRATEUR.
 
 ![Capture écrans](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/08e9aada-c1bd-4cb1-a854-dad10aec68dc)
-
+- SUR RECHERCHE WINDOWS TAPER CMD PUIS OUVRIR L’INVITE DE COMMANDE EN TANT QU'ADMINISTRATEUR.
 - ENSUITE IL FAUT TAPER LES LIGNES DE COMMANDE SUIVANTES (LE COPIER COLLER FONCTIONNE).
 - CD C:\Users\☝️votre nom uilisateur\Downloads 
 - CD C:\Users\☝️votre nom uilisateur\Downloads\m2strm.exe /?
