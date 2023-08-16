@@ -73,7 +73,7 @@ Et si votre wifi à un haut débit par tranche 1000 a 3000 (J'ai pas testé ça)
 - 🖲️  **[Addon The Movie Database Python](https://github.com/xbmc/metadata.themoviedb.org.python)**
 - 🖲️ **[Addon TMDb TV Shows](https://github.com/xbmc/metadata.tvshows.themoviedb.org.python)**
 - 🖲️ **[Site officiel Themoviedb.org](https://www.themoviedb.org/?language=frlorsque)**
-- 🖲️ **[Plugins Video Kodiapps](https://kodiapps.com/addons-chart)**
+- 🖲️ **[Site Kodiapps des Plugins Videos Kodi](https://kodiapps.com/addons-chart)**
 - 🖲️ **[Site Iwf1 des plugins videos Kodi](https://iwf1.com/kodi?page=1&sug=video)**
 
 ### <li>- [x] 👌 Mettre une star si ça été intéressant✔️ </li> 
