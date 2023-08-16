@@ -26,7 +26,7 @@ rapidement des milliers de films & séries etc.. en fichiers strm dans la média
 vos films en fichier strm dans un dossier et chacune de vos séries tv en fichiers strm dans un dossier incluant
 les saisons aussi en dossier et même les chaines tv provenant de votre m3u en dossier si vous avez cela.
 
-👉 Puis il n’y a plus qu’a copier coller le tout dans la médiatheque de kodi et mettre à jour.
+👉 Puis il n’y a plus qu’a copier coller le tout dans la médiatheque de kodi et mettre à jour (Dossier films et Dossier Séries Tv).
 On gagne vraiment en Libération du disque dur (quelques Mb au lieu de plusieurs Go ou To) et du temp au lieu
 de renommé un par un les sources url dans un fichier txt pour ensuite le renommé en strm etc.. </li>
 
