@@ -1,6 +1,6 @@
 # 🖐️Ajouter rapidement des milliers de films & series..."via Fichiers Strm" dans la médiathèque locale kodi pour visualiser.
 
-**[🖱️ Discution](https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2)**
+**[🖱️ Discussions](https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2)**
 **[🖱️ Issues](https://github.com/victore447/FilmsSeriesStrmdanskodi/issues)**
 
 
