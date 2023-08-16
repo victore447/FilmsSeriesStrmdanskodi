@@ -51,8 +51,9 @@ L’INVITE DE COMMANDE EN TANT QUE ADMINISTRATEUR. </li>
 CD C:\Users\☝️votre nom uilisateur\Downloads 👉 Puis
 CD C:\Users\☝️votre nom uilisateur\Downloads\m2strm.exe /?
 
-L’invite de commande vous demande ensuite de continuer en tapant entré.
-Ensuite il faut taper m2strm.exe un espace puis le nom de votre fichier tout attaché.m3u8 et entré. </li>
+☝️ L’invite de commande vous demande ensuite de continuer en tapant entré.
+Ensuite il faut taper m2strm.exe un espace puis le nom de votre fichier tout attaché.m3u8 et entré.
+
 ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ![Capture écrans (1)](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/4e5a9a50-5857-41f5-8ccc-3b8994ef0eeb)
 
