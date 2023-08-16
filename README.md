@@ -6,7 +6,7 @@ https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 
 # OBJET:
 ![500](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/716d619c-c2da-4239-9d88-b5af7b9a7b4a)A tous
-<li>- [x] 👉 Pouvoir regarder vos Films,Series tv & Chaines Tv sans les Plugins videos de Kodi. </li>
+<li>- [x] 👉 Pouvoir regarder vos milliers de Films,Series tv & Chaines Tv sans les Plugins videos de Kodi. </li>
 <li>- [x] 👉 Soulanger votre Disque dur en Go & To avec des fichiers strm. </li>
 <li>- [x] 👉 Mise a jour rapide de la mediatheque kodi via url des sources de vos m3u,iptv,Alldebrid etc.. meme avec votre mobile via votre reseau locale.  </li>
 
