@@ -14,10 +14,9 @@
 -  Soulanger votre Disque dur en Go & To avec des fichiers strm.
 -  Mise a jour rapide de la mediatheque kodi via url des -- 
 -  sources de vos m3u,iptv,Alldebrid etc.. meme avec votre mobile via votre reseau locale.  
-
- Je met en avant un développeur anglophone 🇬🇧 🖱️ **[Trix7777](https://github.com/trix7777/m2strm)**
+-Je met en avant un développeur anglophone 🇬🇧 🖱️ **[Trix7777](https://github.com/trix7777/m2strm)**
   qui mériterai d'être connue par les millions de personnes qui utilisent Kodi pour du m3u, iptv , Xtream code ..
-Car maintenant la majorité des plugins videos Kodi pour visualiser du contenu sont obsoletes ou incompatibles ( 👉 **[Kodiapps](https://kodiapps.com/addons-chart)** & 🖱️  **[Iwf1](https://iwf1.com/kodi?page=1&sug=video)** )
+Car maintenant la majorité des plugins videos Kodi pour visualiser du contenu sont obsoletes ou incompatibles ( 🖱️ **[Kodiapps](https://kodiapps.com/addons-chart)** & **[Iwf1](https://iwf1.com/kodi?page=1&sug=video)** )
 
 ☝️Ce virtuose à créer un logiciel (compatible Windows,Linux) pour nous facilité la tache afin d’ajouté
 rapidement des milliers de films & séries etc.. en fichiers strm dans la médiatheque locale de kodi👍.
@@ -42,7 +41,7 @@ ce lien 🖱️ **[M2strm](https://github.com/trix7777/m2strm/releases/download/
 Il faut renommé votre fichier m3u en m3u8 et le logiciel vas extraire la totalité des fichiers
 en strm en dossier films,séries et chaines tv etc…
 
-- MOI JE PLACE LE FICHER DU DEVELOPPEUR ET TOUT MES FICHIERS SUR DOWNLOAD.
+- 📂 MOI JE PLACE LE FICHER DU DEVELOPPEUR ET TOUT MES FICHIERS SUR DOWNLOAD.
 
 ![Capture écrans](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/08e9aada-c1bd-4cb1-a854-dad10aec68dc)
 - SUR RECHERCHE WINDOWS TAPER CMD PUIS OUVRIR L’INVITE DE COMMANDE EN TANT QU'ADMINISTRATEUR.
@@ -61,11 +60,11 @@ etc…qui sont extraits en fichiers strm.
 
 - Attention kodi se plante pour la collecte des données en ligne via 🖱️ **[The Movie Database Python](https://github.com/xbmc/metadata.themoviedb.org.python)** & 🖱️ **[TMDb TV Shows](https://github.com/xbmc/metadata.tvshows.themoviedb.org.python)** lorsque il a y trop de fichiers strm (des dizaines de milliers) ajouté d'un coup à la mediatheque quand on met à jour.
 
-- Si vous avez un débit wifi faible,Il est préférable d'en ajouter par tranche de 500.
+- ☝️ Si vous avez un débit wifi faible,Il est préférable d'en ajouter par tranche de 500.
 Et si votre wifi à un haut débit par tranche 1000 a 3000 (J'ai pas testé ça). ✅ </li>
 
 ### <li>- [x] LIENS DU SUJET: </li>
-- 🖲️**[M2strm](https://github.com/trix7777/m2strm#readme)**
+- 🖲️ **[M2strm](https://github.com/trix7777/m2strm#readme)**
 - 🖲️ **[Discussions](https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2)**
 - 🖲️ **[Téléchargement du Logiciel](https://github.com/trix7777/m2strm/releases/download/v3.0.2.3/m2strm.exe)**
 - 🖲️ **[Version originale en anglais du sujet](https://github.com/trix7777/m2strm#readme)**
@@ -73,5 +72,5 @@ Et si votre wifi à un haut débit par tranche 1000 a 3000 (J'ai pas testé ça)
 - 🖲️ **[Plugins Video Kodiapps](https://kodiapps.com/addons-chart)**
 - 🖲️ **[M2strm](https://iwf1.com/kodi?page=1&sug=video)**
 
-<li>- [x] 👌 Mettre une star si cela vous à intéressé✔️ </li> 
+### <li>- [x] 👌 Mettre une star si ça été intéressant✔️ </li> 
 
