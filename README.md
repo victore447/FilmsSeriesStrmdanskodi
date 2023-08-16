@@ -54,11 +54,11 @@ Ensuite il faut taper m2strm.exe un espace puis le nom de votre fichier tout att
 ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ![Capture écrans (1)](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/4e5a9a50-5857-41f5-8ccc-3b8994ef0eeb)
 
-- Le temps de l’extraction (quelques minutes) dépendra de votre wifi etc…
+- ☝️ Le temps de l’extraction (quelques minutes) dépendra de votre wifi etc…
 et du nombres d’éléments de votre fichier m3u8 (films et séries,chaines tv)
 etc…qui sont extraits en fichiers strm.
 
-- Attention kodi se plante pour la collecte des données en ligne via 🖱️ **[The Movie Database Python](https://github.com/xbmc/metadata.themoviedb.org.python)** & 🖱️ **[TMDb TV Shows](https://github.com/xbmc/metadata.tvshows.themoviedb.org.python)** lorsque il a y trop de fichiers strm (des dizaines de milliers) ajouté d'un coup à la mediatheque quand on met à jour.
+- ☝️ Attention kodi se plante pour la collecte des données en ligne via 🖱️ **[The Movie Database Python](https://github.com/xbmc/metadata.themoviedb.org.python)** & 🖱️ **[TMDb TV Shows](https://github.com/xbmc/metadata.tvshows.themoviedb.org.python)** lorsque il a y trop de fichiers strm (des dizaines de milliers) ajouté d'un coup à la mediatheque quand on met à jour.
 
 - ☝️ Si vous avez un débit wifi faible,Il est préférable d'en ajouter par tranche de 500.
 Et si votre wifi à un haut débit par tranche 1000 a 3000 (J'ai pas testé ça). ✅ </li>
