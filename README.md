@@ -15,7 +15,7 @@
 -  Mise a jour rapide de la mediatheque kodi via url des -- 
 -  sources de vos m3u,iptv,Alldebrid etc.. meme avec votre mobile via votre reseau locale.  
 
-Je met en avant un développeur anglophone 🇬🇧 🖱️ **["Trix7777"](https://github.com/trix7777)**
+Je met en avant 🖱️ **["Trix7777"](https://github.com/trix7777)** le développeur anglophone 🇬🇧
 qui mériterai d'être connue par les millions de personnes qui utilisent Kodi pour du m3u, iptv , Xtream code ..
 Car maintenant la majorité des plugins videos Kodi pour visualiser du contenu sont obsoletes ou incompatibles ( 🖱️ **["Kodiapps"](https://kodiapps.com/addons-chart)** & **["Iwf1"](https://iwf1.com/kodi?page=1&sug=video)** )
 
