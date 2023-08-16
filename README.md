@@ -17,7 +17,7 @@
 
  Je met en avant un développeur anglophone 🇬🇧 👉 **[Trix7777](https://github.com/trix7777/m2strm)**
   qui mériterai d'être connue par les millions de personnes qui utilisent Kodi pour du m3u, iptv , Xtream code ..
-Car maintenant la majorité des plugins videos Kodi pour visualiser du contenu sont obsoletes ou incompatibles (👉 https://kodiapps.com/addons-chart & https://iwf1.com/kodi?page=1&sug=video ).
+Car maintenant la majorité des plugins videos Kodi pour visualiser du contenu sont obsoletes ou incompatibles ( 👉 **[Kodiapps](https://kodiapps.com/addons-chart)** & 👉  **[Iwf1](https://iwf1.com/kodi?page=1&sug=video)** )
 
 ☝️Ce virtuose à créer un logiciel (compatible Windows,Linux) pour nous facilité la tache afin d’ajouté
 rapidement des milliers de films & séries etc.. en fichiers strm dans la médiatheque locale de kodi👍.
