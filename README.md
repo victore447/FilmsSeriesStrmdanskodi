@@ -9,11 +9,9 @@
 ### <li>- [x] OBJET: </li>
 ![500](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/716d619c-c2da-4239-9d88-b5af7b9a7b4a)A tous
 
--  Pouvoir regarder vos milliers de Films,Series tv & Chaines Tv sans les Plugins videos de Kodi.
 -  Pouvoir regarder vos milliers de Films,Series tv & Chaines Tv sans les Plugins videos de Kodi. 
 -  Soulanger votre Disque dur en Go & To avec des fichiers strm.
--  Mise a jour rapide de la mediatheque kodi via url des -- 
--  sources de vos m3u,iptv,Alldebrid etc.. meme avec votre mobile via votre reseau locale.  
+-  Mise a jour rapide de la mediatheque kodi via url sources de vos m3u,iptv,Alldebrid etc.. meme avec votre mobile via votre reseau locale.  
 
 Je met en avant 🖱️ **["Trix7777"](https://github.com/trix7777)** le développeur anglophone 🇬🇧
 qui mériterai d'être connue par les millions de personnes qui utilisent Kodi pour du m3u, iptv , Xtream code ..
