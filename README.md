@@ -66,7 +66,7 @@ Et si votre wifi à un haut débit par tranche 1000 a 3000 (J'ai pas testé ça)
 ### <li>- [x] RECAP DES LIENS DU SUJET: </li>
 - 🖲️ **[Téléchargement du Logiciel](https://github.com/trix7777/m2strm/releases/download/v3.0.2.3/m2strm.exe)**
 - 🖲️ **[Code github M2strm du developpeur TRix7777 en version anglaise](https://github.com/trix7777/m2strm#readme)**
-- 🖲️ **[Profil du developpeur Trix7777](https://github.com/trix7777/m2strm)**
+- 🖲️ **[Profil du developpeur Trix7777](https://github.com/trix7777)**
 - 🖲️ **[Pour toutes dificultées "Issues" du présent sujet](https://github.com/victore447/FilmsSeriesStrmdanskodi/issues)**
 - 🖲️ **[Discussions du present sujet](https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2)** 
 - 🖲️ **[Site officiel "Themoviedb" d'ou les données (Films,Series..sont extraites](https://www.themoviedb.org/?language=frlorsque)**
