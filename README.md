@@ -65,15 +65,15 @@ Et si votre wifi à un haut débit par tranche 1000 a 3000 (J'ai pas testé ça)
 
 ### <li>- [x] RECAP DES LIENS DU SUJET: </li>
 - 🖲️ **[Téléchargement du Logiciel](https://github.com/trix7777/m2strm/releases/download/v3.0.2.3/m2strm.exe)**
-- 🖲️ **[Code github M2strm du developpeur TRix7777 en version anglaise](https://github.com/trix7777/m2strm#readme)**
+- 🖲️ **[Code github M2strm du developpeur "TRix7777" en version anglaise](https://github.com/trix7777/m2strm#readme)**
 - 🖲️ **[Profil du developpeur Trix7777](https://github.com/trix7777)**
 - 🖲️ **[Pour toutes dificultées "Issues" du présent sujet](https://github.com/victore447/FilmsSeriesStrmdanskodi/issues)**
 - 🖲️ **[Discussions du present sujet](https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2)** 
 - 🖲️ **[Site officiel "Themoviedb" d'ou les données (Films,Series..sont extraites](https://www.themoviedb.org/?language=frlorsque)**
 - 🖲️  **[Addon "The Movie Database Python"](https://github.com/xbmc/metadata.themoviedb.org.python)**
 - 🖲️ **[Addon "TMDb TV Shows"](https://github.com/xbmc/metadata.tvshows.themoviedb.org.python)**
-- 🖲️ **[Site Kodiapps des Plugins Videos Kodi](https://kodiapps.com/addons-chart)**
-- 🖲️ **[Site Iwf1 des plugins videos Kodi](https://iwf1.com/kodi?page=1&sug=video)**
+- 🖲️ **[Site "Kodiapps" des Plugins Videos Kodi](https://kodiapps.com/addons-chart)**
+- 🖲️ **[Site "Iwf1" des plugins videos Kodi](https://iwf1.com/kodi?page=1&sug=video)**
 
 ### <li>- [x] 👌 Mettre une star si ça été intéressant✔️ </li> 
 
