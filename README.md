@@ -46,14 +46,14 @@ L’INVITE DE COMMANDE EN TANT QUE ADMINISTRATEUR. </li>
 ![Capture écrans](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/08e9aada-c1bd-4cb1-a854-dad10aec68dc)
 
 <li>- [x] ENSUITE IL FAUT TAPER LES LIGNES DE COMMANDE SUIVANT
-(LE COPIER COLLER FONCTIONNE).
-CD C:\Users\☝️votre nom uilisateur\Downloads
-CD C:\Users\☝️votre nom uilisateur\Downloads\m2strm.exe /? 
+(LE COPIER COLLER FONCTIONNE).</li>
+
+CD C:\Users\☝️votre nom uilisateur\Downloads 👉 Puis
+CD C:\Users\☝️votre nom uilisateur\Downloads\m2strm.exe /?
 
 L’invite de commande vous demande ensuite de continuer en tapant entré.
 Ensuite il faut taper m2strm.exe un espace puis le nom de votre fichier tout attaché.m3u8 et entré. </li>
 ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
-
 ![Capture écrans (1)](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/4e5a9a50-5857-41f5-8ccc-3b8994ef0eeb)
 
 
