@@ -1,6 +1,7 @@
 # 🖐️Ajouter rapidement des milliers de films & series..."via Fichiers Strm" dans la médiathèque locale kodi pour visualiser.
-https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2
-https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
+
+**[👉 Issues](https://github.com/victore447/FilmsSeriesStrmdanskodi/issues)**
+**[👉 Discution](https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2)**
 
 ![video on demand Disney plus](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/31307ff2-9f60-442d-ac6d-8cc29f239bb1)
 
