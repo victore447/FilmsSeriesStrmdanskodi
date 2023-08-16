@@ -35,8 +35,7 @@ de renommé un par un les sources url dans un fichier txt pour ensuite le renomm
 <li>- [x] ☝️Après avoir téléchargé votre fichier exe compatible Windows et Linux sur
 ce lien👉 https://github.com/trix7777/m2strm/releases/download/v3.0.2.3/m2strm.exe ,
 Il faut renommé votre fichier m3u en m3u8 et le logiciel vas extraire la totalité des fichiers
-en strm en dossier films,séries et chaines tv etc…
-https://github.com/trix7777/m2strm/releases/download/v3.0.2.3/m2strm.exe </li>
+en strm en dossier films,séries et chaines tv etc… </li>
 
 <li>- [x] MOI JE PLACE LE FICHER DU DEVELOPPEUR ET TOUT MES FICHIERS SUR DOWNLOAD.
 SUR RECHERCHE WINDOWS IL FAUT TAPER CMD PUIS OUVRIR
