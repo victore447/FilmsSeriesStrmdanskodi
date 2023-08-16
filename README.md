@@ -43,7 +43,7 @@ L’INVITE DE COMMANDE EN TANT QUE ADMINISTRATEUR. </li>
 
 ![Capture écrans](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/08e9aada-c1bd-4cb1-a854-dad10aec68dc)
 
-<li>- [x] ENSUITE IL FAUT TAPER LES LIGNES DE COMMANDE SUIVANT
+<li>- [x] ENSUITE IL FAUT TAPER LES LIGNES DE COMMANDE SUIVANTES
 (LE COPIER COLLER FONCTIONNE).</li>
 
 CD C:\Users\☝️votre nom uilisateur\Downloads 👉 Puis
