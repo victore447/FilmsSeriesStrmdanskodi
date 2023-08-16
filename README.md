@@ -63,7 +63,7 @@ etc…qui sont extraits en fichiers strm.
 - ☝️ Si vous avez un débit wifi faible,Il est préférable d'en ajouter par tranche de 500.
 Et si votre wifi à un haut débit par tranche 1000 a 3000 (J'ai pas testé ça). ✅ </li>
 
-### <li>- [x] LIENS DU SUJET: </li>
+### <li>- [x] RECAP DES LIENS DU SUJET: </li>
 - 🖲️ **[M2strm](https://github.com/trix7777/m2strm#readme)**
 - 🖲️ **[Discussions](https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2)**
 - 🖲️ **[Téléchargement du Logiciel](https://github.com/trix7777/m2strm/releases/download/v3.0.2.3/m2strm.exe)**
@@ -71,6 +71,10 @@ Et si votre wifi à un haut débit par tranche 1000 a 3000 (J'ai pas testé ça)
 - 🖲️ **[Trix7777 le developpeur](https://github.com/trix7777/m2strm)** 
 - 🖲️ **[Plugins Video Kodiapps](https://kodiapps.com/addons-chart)**
 - 🖲️ **[M2strm](https://iwf1.com/kodi?page=1&sug=video)**
+- 🖲️ **[Site Themoviedb d'ou les données (Films,Series.. sont extraites](https://www.themoviedb.org/?language=frlorsque)**
+- 🖲️  **[Addon The Movie Database Python](https://github.com/xbmc/metadata.themoviedb.org.python)**
+- 🖲️ **[Addon TMDb TV Shows](https://github.com/xbmc/metadata.tvshows.themoviedb.org.python)**
+- 🖲️ **[Site officiel Themoviedb.org](https://www.themoviedb.org/?language=frlorsque)**
 
 ### <li>- [x] 👌 Mettre une star si ça été intéressant✔️ </li> 
 
