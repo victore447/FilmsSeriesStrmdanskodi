@@ -1,4 +1,4 @@
-# Visualiser Films & Series...des fichiers Strm dans kodi.
+# 🖐️Ajouter rapidement des milliers de films & series...des fichiers Strm dans médiathèque locale kodi pour visualiser.
 https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2
 https://github.com/victore447/FilmsSeriesStrmdanskodi/issues
 
