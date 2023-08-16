@@ -65,17 +65,13 @@ etc…qui sont extraits en fichiers strm.
 Et si votre wifi à un haut débit par tranche 1000 a 3000 (J'ai pas testé ça). ✅ </li>
 
 ### <li>- [x] LIENS DU SUJET: </li>
-<li>- [x] Detail 🖲️ https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2 </li>
-
-<li>- [x] Téléchargement du Logiciel 🖲️ https://github.com/trix7777/m2strm/releases/download/v3.0.2.3/m2strm.exe </li>
-
-<li>- [x] Version originale en anglais du sujet 🖲️ https://github.com/trix7777/m2strm#readme </li>
-
-<li>- [x] 🖲️ https://github.com/trix7777/m2strm </li>
-
-<li>- [x] 🖲️ https://kodiapps.com/addons-chart </li>
-
-<li>- [x] 🖲️ https://iwf1.com/kodi?page=1&sug=video </li>
+**[M2strm](https://github.com/trix7777/m2strm#readme)**
+🖲️ **[Discussions](https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2)**
+🖲️ **[Téléchargement du Logiciel](https://github.com/trix7777/m2strm/releases/download/v3.0.2.3/m2strm.exe)**
+🖲️ **[Version originale en anglais du sujet](https://github.com/trix7777/m2strm#readme)**
+🖲️ **[Trix7777 le developpeur](https://github.com/trix7777/m2strm)** 
+🖲️ **[Plugins Video Kodiapps](https://kodiapps.com/addons-chart)**
+🖲️ **[M2strm](https://iwf1.com/kodi?page=1&sug=video)**
 
 <li>- [x] 👌 Mettre une star si cela vous à intéressé✔️ </li> 
 
