@@ -69,10 +69,9 @@ Et si votre wifi à un haut débit par tranche 1000 a 3000 (J'ai pas testé ça)
 - 🖲️ **[Profil du developpeur Trix7777](https://github.com/trix7777/m2strm)**
 - 🖲️ **[Pour toutes dificultées "Issues" du présent sujet](https://github.com/victore447/FilmsSeriesStrmdanskodi/issues)**
 - 🖲️ **[Discussions du present sujet](https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2)** 
-- 🖲️ **[Site Themoviedb d'ou les données (Films,Series.. sont extraites](https://www.themoviedb.org/?language=frlorsque)**
-- 🖲️  **[Addon The Movie Database Python](https://github.com/xbmc/metadata.themoviedb.org.python)**
-- 🖲️ **[Addon TMDb TV Shows](https://github.com/xbmc/metadata.tvshows.themoviedb.org.python)**
-- 🖲️ **[Site officiel Themoviedb.org](https://www.themoviedb.org/?language=frlorsque)**
+- 🖲️ **[Site officiel "Themoviedb" d'ou les données (Films,Series..sont extraites](https://www.themoviedb.org/?language=frlorsque)**
+- 🖲️  **[Addon "The Movie Database Python"](https://github.com/xbmc/metadata.themoviedb.org.python)**
+- 🖲️ **[Addon "TMDb TV Shows"](https://github.com/xbmc/metadata.tvshows.themoviedb.org.python)**
 - 🖲️ **[Site Kodiapps des Plugins Videos Kodi](https://kodiapps.com/addons-chart)**
 - 🖲️ **[Site Iwf1 des plugins videos Kodi](https://iwf1.com/kodi?page=1&sug=video)**
 
