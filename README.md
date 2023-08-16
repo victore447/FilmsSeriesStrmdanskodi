@@ -9,7 +9,7 @@
 ### <li>- [x] OBJET: </li>
 ![500](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/716d619c-c2da-4239-9d88-b5af7b9a7b4a)A tous
 
--  Pouvoir regarder vos milliers de Films,Series tv & Chaines Tv sans les Plugins videos de Kodi. 
+-  Pouvoir regarder vos milliers Films,Series tv & Chaines Tv sans les Plugins videos de Kodi. 
 -  Soulanger votre Disque dur en Go & To avec des fichiers strm.
 -  Mise a jour rapide de la mediatheque kodi via url sources de vos m3u,iptv,Alldebrid etc.. meme avec votre mobile via votre reseau locale.  
 
@@ -21,18 +21,16 @@ Car maintenant la majorité des plugins videos Kodi pour visualiser du contenu s
 rapidement des milliers de films & séries etc.. en fichiers strm dans la médiatheque locale de kodi👍.
 
 👌 Le logiciel nommé **["M2strm"](https://github.com/trix7777/m2strm#readme)** extrait votre fichier m3u8 contenant chacun de
-vos films en fichier strm dans un dossier et chacune de vos séries tv en fichiers strm dans un dossier incluant
+vos films en fichier strm dans un dossier et chacune de vos séries en fichiers strm dans un dossier incluant
 les saisons aussi en dossier et même les chaines tv provenant de votre m3u en dossier si vous avez cela.
 
-👉 Puis il n’y a plus qu’a copier coller le tout dans la médiatheque de kodi et mettre à jour (Dossier films et Dossier Séries Tv).
-On gagne vraiment en Libération du disque dur (quelques Mb au lieu de plusieurs Go ou To) et du temp au lieu
-de renommé un par un les sources url dans un fichier txt pour ensuite le renommé en strm etc.. </li>
+👉 Puis il n’y a plus qu’a copier coller le tout dans la médiatheque de kodi (Dossier films et Dossier Séries Tv) et mettre à jour.☝️ On gagne vraiment en Libération du disque dur (quelques Mb au lieu de plusieurs Go ou To) et du temp au lieu
+de renommé un par un les sources url dans un fichier txt pour ensuite le renommé en strm etc...
 
 ### <li>- [x] PREREQUIS: </li>
 - Avoir une playlist m3u sans coupures. 
 - Avoir un Pc...sous Windows ou Linux. 
-- Creer un reseau locale via vos appareils (Box Shiel Tv etc..) 
-  pour faciliter vos mises a jours directement dans vos dossiers "films & Series..".
+- Creer un reseau locale via vos appareils (Box Shiel Tv etc..) pour faciliter vos mises a jours directement dans vos dossiers "films & Series..".
 
 ### <li>- [x] MÉTHODOLOGIE DE L'AJOUT DES MEDIAS: </li>
 - Après avoir téléchargé votre fichier exe compatible Windows et Linux sur
@@ -47,17 +45,15 @@ en strm en dossier films,séries et chaines tv etc…
 - ENSUITE IL FAUT TAPER LES LIGNES DE COMMANDE SUIVANTES (LE COPIER COLLER FONCTIONNE).
 - CD C:\Users\☝️votre nom uilisateur\Downloads 
 - CD C:\Users\☝️votre nom uilisateur\Downloads\m2strm.exe /?
-- ☝L’invite de commande vous demande ensuite de continuer en tapant entré.
+- ☝ L’invite de commande vous demande ensuite de continuer en tapant entré.
 Ensuite il faut taper m2strm.exe un espace puis le nom de votre fichier tout attaché.m3u8 et entré.
 
 ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ![Capture écrans (1)](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/4e5a9a50-5857-41f5-8ccc-3b8994ef0eeb)
 
-- ☝️ Le temps de l’extraction (quelques minutes) dépendra de votre wifi etc…
-et du nombres d’éléments de votre fichier m3u8 (films et séries,chaines tv)
-etc…qui sont extraits en fichiers strm.
+- ☝️ Le temps de l’extraction (quelques minutes) dépendra de votre wifi etc… et du nombres d’éléments de votre fichier m3u8 (films et séries,chaines tv) etc…qui sont extraits en fichiers strm.
 
-- ☝️ Attention kodi se plante pour la collecte des données en ligne via les Addons 🖱️ **["The Movie Database Python"](https://github.com/xbmc/metadata.themoviedb.org.python)** & 🖱️ **["TMDb TV Shows"](https://github.com/xbmc/metadata.tvshows.themoviedb.org.python)** du site officiel **[🖱️ "Themoviedb.org"](https://www.themoviedb.org/?language=frlorsque)** quand il a y trop de fichiers strm (des dizaines de milliers) ajouté d'un coup à la mediatheque quand on met à jour.
+- ☝️ Attention kodi se plante pour la collecte des données en ligne via les Addons 🖱️ **["The Movie Database Python"](https://github.com/xbmc/metadata.themoviedb.org.python)** & 🖱️ **["TMDb TV Shows"](https://github.com/xbmc/metadata.tvshows.themoviedb.org.python)** du site officiel **[🖱️ "Themoviedb.org"](https://www.themoviedb.org/?language=frlorsque)** quand il a y trop de fichiers strm (des dizaines de milliers) ajouté d'un coup à la mediatheque (dossiers Films & Series) quand on met à jour.
 
 - ☝️ Si vous avez un débit wifi faible,Il est préférable d'en ajouter par tranche de 500.
 Et si votre wifi à un haut débit par tranche 1000 a 3000 (J'ai pas testé ça). ✅ </li>
