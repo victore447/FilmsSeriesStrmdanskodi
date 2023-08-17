@@ -1,4 +1,4 @@
-# 🖐️Ajouter rapidement des milliers de films & series..."via Fichiers Strm" dans la médiathèque locale kodi pour visualiser.
+# 🖐️Ajouter rapidement des milliers de films & series..."via Fichiers Strm" dans la médiathèque locale 🖱️ **[Kodi)](https://kodi.tv/download/)** pour visualiser.
 
 **[🖱️ Discussions](https://github.com/victore447/FilmsSeriesStrmdanskodi/discussions/2)**
 **[🖱️ Issues](https://github.com/victore447/FilmsSeriesStrmdanskodi/issues)**
@@ -9,12 +9,12 @@
 ### <li>- [x] OBJET: </li>
 ![500](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/716d619c-c2da-4239-9d88-b5af7b9a7b4a)A tous
 
--  Pouvoir regarder vos milliers Films,Series tv & Chaines Tv sans les Plugins videos de Kodi. 
+-  Pouvoir regarder vos milliers Films,Series tv & Chaines Tv sans les Plugins videos de **[Kodi)](https://kodi.tv/download/)** . 
 -  Soulanger votre Disque dur en Go & To avec des fichiers strm.
--  Mise a jour rapide de la mediatheque kodi via url sources de vos m3u,iptv,Alldebrid etc.. meme avec votre mobile via votre reseau locale.  
+-  Mise a jour rapide de la mediatheque  **[Kodi)](https://kodi.tv/download/)** via url sources de vos m3u,iptv,Alldebrid etc.. meme avec votre mobile via votre reseau locale.  
 
 Je met en avant 🖱️ **["Trix7777"](https://github.com/trix7777)** le développeur anglophone 🇬🇧
-qui mériterai d'être connue par les millions de personnes qui utilisent Kodi pour du m3u, iptv , Xtream code ..
+qui mériterai d'être connue par les millions de personnes qui utilisent **[Kodi)](https://kodi.tv/download/)** pour du m3u, iptv , Xtream code ..
 Car maintenant la majorité des plugins videos Kodi pour visualiser du contenu sont obsoletes ou incompatibles ( 🖱️ **["Kodiapps"](https://kodiapps.com/addons-chart)** & **["Iwf1"](https://iwf1.com/kodi?page=1&sug=video)** )
 
 ☝️ Ce virtuose à créer un logiciel (compatible Windows,Linux) pour nous facilité la tache afin d’ajouté
@@ -24,7 +24,7 @@ rapidement des milliers de films & séries etc.. en fichiers strm dans la média
 vos films en fichier strm dans un dossier et chacune de vos séries en fichiers strm dans un dossier incluant
 les saisons aussi en dossier et même les chaines tv provenant de votre m3u en dossier si vous avez cela.
 
-👉 Puis il n’y a plus qu’a copier coller le tout dans la médiatheque de kodi (Dossier films et Dossier Séries Tv) et mettre à jour.☝️ On gagne vraiment en Libération du disque dur (quelques Mb au lieu de plusieurs Go ou To) et du temp au lieu
+👉 Puis il n’y a plus qu’a copier coller le tout dans la médiatheque de **[Kodi)](https://kodi.tv/download/)** (Dossier films et Dossier Séries Tv) et mettre à jour.☝️ On gagne vraiment en Libération du disque dur (quelques Mb au lieu de plusieurs Go ou To) et du temp au lieu
 de renommé un par un les sources url dans un fichier txt pour ensuite le renommé en strm etc...
 
 ### <li>- [x] PREREQUIS: </li>
