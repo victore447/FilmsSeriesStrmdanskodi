@@ -70,5 +70,7 @@ Et si votre wifi à un haut débit par tranche 1000 a 3000 (J'ai pas testé ça)
 - 🖲️ **[Site "Kodiapps" des Plugins Videos Kodi](https://kodiapps.com/addons-chart)**
 - 🖲️ **[Site "Iwf1" des plugins videos Kodi](https://iwf1.com/kodi?page=1&sug=video)**
 
+- 🖲️ **[Kodi (Ste officiel de téléchargement)](https://kodi.tv/download/)**
+
 ### <li>- [x] 👌 Mettre une star si ça été intéressant✔️ </li> 
 
