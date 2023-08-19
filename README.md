@@ -76,5 +76,4 @@ Et si votre wifi à un haut débit par tranche 1000 a 3000 (J'ai pas testé ça)
 > - 🖲️ **[Site "Iwf1" des plugins videos Kodi](https://iwf1.com/kodi?page=1&sug=video)**
 ></details>
   
-### <li>- [x] 👌 Mettre une star si ça été intéressant✔️ </li> 
-
+### <li>- [x] 👌 Mettre une star en haut si ça été intéressant✔️ </li> ![smiley-etoile-image-animee-0164](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/dc73a5b7-e38e-4d80-9cbc-68ac5dd89826)
