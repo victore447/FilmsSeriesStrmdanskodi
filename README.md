@@ -30,7 +30,7 @@ de renommé un par un les sources url dans un fichier txt pour ensuite le renomm
 ### <li>- [x] PREREQUIS: </li>
 - Avoir une playlist m3u sans coupures Via les Fournisseurs Iptv etc... 
 - Avoir un Pc...sous Windows ou Linux. 
-- Creer un reseau locale via vos appareils (Box Shiel Tv etc..) pour faciliter vos mises a jours directement dans vos dossiers "films & Series..".
+- Creer un reseau locale via vos appareils (Box Shiel Tv, Smartphones etc..) pour faciliter vos mises a jours directement dans vos dossiers "films & Series..".
 
 ### <li>- [x] MÉTHODOLOGIE DE L'AJOUT DES MEDIAS: </li>
 - Après avoir téléchargé votre fichier exe compatible Windows et Linux sur
